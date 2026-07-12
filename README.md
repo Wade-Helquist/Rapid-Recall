@@ -1,12 +1,12 @@
-# Speed Repeat
+# Rapid Recall
 
 ## Overview
 
-Speed Repeat is a browser-based memory game that combines short-term memory, reaction time, and pattern recognition into an increasingly challenging experience.
+Rapid Recall is a browser-based memory game that combines short-term memory, reaction time, and pattern recognition into an increasingly challenging experience.
 
 Players watch a sequence of directional inputs, then attempt to accurately repeat the pattern as the game progressively increases in difficulty and speed. Scoring rewards both accuracy and reaction time, encouraging players to balance speed with precision.
 
-Originally developed as one of my earliest personal software projects, Speed Repeat became an opportunity to explore JavaScript beyond basic web development while building an original interactive game.
+Originally developed as one of my earliest personal software projects, Rapid Recall became an opportunity to explore JavaScript beyond basic web development while building an original interactive game.
 
 ---
 
@@ -14,7 +14,7 @@ Originally developed as one of my earliest personal software projects, Speed Rep
 
 - Progressive difficulty with increasing playback speed
 - Randomized gameplay sequences
-- Reaction-time based scoring system
+- Reaction-time-based scoring system
 - Persistent local leaderboard
 - Audio and visual player feedback
 - Browser-based gameplay with no installation required
@@ -46,7 +46,7 @@ As the project evolved, additional features such as reaction-time scoring, persi
 - Event-driven programming
 - DOM manipulation
 - State management
-- Timing and asynchronous events
+- Timing and asynchronous programming
 - Randomized algorithms
 - User interface development
 - Game development
