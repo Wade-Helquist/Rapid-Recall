@@ -32,22 +32,28 @@ Originally developed as one of my earliest personal software projects, Rapid Rec
 
 ## Development Process
 
-Development progressed through many small, iterative improvements over multiple weeks. Early work focused on building the core game, followed by continual refinement of gameplay, scoring, timing, presentation, and documentation.
+Development progressed through frequent iterative improvements over several weeks, with regular commits focused on expanding gameplay, refining the user experience, and polishing the final product.
 
 Commit history reflects work including:
 
-- Initial project setup and core game implementation
-- Interface layout, styling, and visual polish
-- Score display and leaderboard improvements
-- Gameplay timing, speed, and balancing refinements
-- Audio feedback and game effect enhancements
-- High score table implementation
-- Table layout and alignment improvements
-- Bug fixes and gameplay refinements
-- Code consolidation and project organization
-- Documentation updates and final project polish
-- Recent maintenance updates, including expanded documentation
- and renaming the game from **Speed Repeat** to **Rapid Recall**
+- **Early December 2019**
+  - Created the initial project and established the core game framework
+  - Began implementing core gameplay mechanics
+  - Introduced initial visual styling and color improvements
+
+- **Mid December 2019**
+  - Refined gameplay timing, speed progression, and loop behavior
+  - Improved score calculations and score display
+  - Enhanced the user interface with icons, sounds, and visual polish
+  - Added milestone audio feedback and game effects
+  - Implemented a persistent high score table
+  - Improved table layout, alignment, and leaderboard presentation
+
+- **Late December 2019**
+  - Consolidated CSS and application code to improve maintainability
+  - Reorganized project assets into dedicated image and sound folders
+  - Fixed gameplay bugs and placeholder content
+  - Completed final gameplay balancing, documentation, and project polish
 
 ---
 
