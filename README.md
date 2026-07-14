@@ -32,11 +32,18 @@ Originally developed as one of my earliest personal software projects, Rapid Rec
 
 ## Development Process
 
-This project was built from scratch to strengthen my understanding of interactive JavaScript development.
-
-Development focused on coordinating timers, user input, randomized gameplay, scoring algorithms, DOM manipulation, audio feedback, and overall application state while creating an enjoyable player experience.
-
-As the project evolved, additional features such as reaction-time scoring, persistent leaderboards, and progressively faster gameplay were introduced through iterative refinement.
+Initial project setup and core game implementation
+Interface layout, styling, and visual polish
+Score display and leaderboard improvements
+Gameplay timing, speed, and balancing refinements
+Audio feedback and game effect enhancements
+High score table implementation
+Table layout and alignment improvements
+Bug fixes and gameplay refinements
+Code consolidation and project organization
+Documentation updates and final project polish
+Recent maintenance updates, including expanded documentation
+and renaming the game from Speed Repeat to Rapid Recall
 
 ---
 
