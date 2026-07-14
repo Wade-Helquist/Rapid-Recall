@@ -32,18 +32,22 @@ Originally developed as one of my earliest personal software projects, Rapid Rec
 
 ## Development Process
 
-Initial project setup and core game implementation
-Interface layout, styling, and visual polish
-Score display and leaderboard improvements
-Gameplay timing, speed, and balancing refinements
-Audio feedback and game effect enhancements
-High score table implementation
-Table layout and alignment improvements
-Bug fixes and gameplay refinements
-Code consolidation and project organization
-Documentation updates and final project polish
-Recent maintenance updates, including expanded documentation
-and renaming the game from Speed Repeat to Rapid Recall
+Development progressed through many small, iterative improvements over multiple weeks. Early work focused on building the core game, followed by continual refinement of gameplay, scoring, timing, presentation, and documentation.
+
+Commit history reflects work including:
+
+- Initial project setup and core game implementation
+- Interface layout, styling, and visual polish
+- Score display and leaderboard improvements
+- Gameplay timing, speed, and balancing refinements
+- Audio feedback and game effect enhancements
+- High score table implementation
+- Table layout and alignment improvements
+- Bug fixes and gameplay refinements
+- Code consolidation and project organization
+- Documentation updates and final project polish
+- Recent maintenance updates, including expanded documentation
+ and renaming the game from **Speed Repeat** to **Rapid Recall**
 
 ---
 
