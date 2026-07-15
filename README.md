@@ -32,29 +32,30 @@ Originally developed as one of my earliest personal software projects, Rapid Rec
 
 ## Development Process
 
-Development progressed through frequent iterative improvements over several weeks, with regular commits focused on expanding gameplay, refining the user experience, and polishing the final product.
+Development progressed through frequent iterative improvements over nearly two weeks, with regular commits focused on expanding gameplay, refining the user experience, and polishing the final product.
 
 Commit history reflects work including:
 
-- **Early December 2019**
-  - Created the initial project and established the core game framework
-  - Began implementing core gameplay mechanics
-  - Introduced initial visual styling and color improvements
+### December 7–10, 2019
 
-- **Mid December 2019**
-  - Refined gameplay timing, speed progression, and loop behavior
-  - Improved score calculations and score display
-  - Enhanced the user interface with icons, sounds, and visual polish
-  - Added milestone audio feedback and game effects
-  - Implemented a persistent high score table
-  - Improved table layout, alignment, and leaderboard presentation
+- Created the initial project and established the core game framework.
+- Implemented core gameplay mechanics and timing logic.
+- Added speed progression and early gameplay balancing.
+- Introduced the initial visual design and color improvements.
 
-- **Late December 2019**
-  - Consolidated CSS and application code to improve maintainability
-  - Reorganized project assets into dedicated image and sound folders
-  - Fixed gameplay bugs and placeholder content
-  - Completed final gameplay balancing, documentation, and project polish
+### December 11–16, 2019
 
+- Refined scoring mechanics, timing, and speed progression.
+- Enhanced the user interface with icons, sounds, and visual polish.
+- Added milestone audio feedback and gameplay effects.
+- Implemented a persistent high-score table and improved leaderboard presentation.
+
+### December 18–19, 2019
+
+- Consolidated CSS and application code to improve maintainability.
+- Reorganized project assets into dedicated image and sound folders.
+- Fixed remaining gameplay bugs and placeholder content.
+- Completed final gameplay balancing, documentation, and overall project polish.
 ---
 
 ## Skills Demonstrated
